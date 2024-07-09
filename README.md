@@ -11,7 +11,7 @@ The training data comes from https://huggingface.co/datasets/hammer888/captcha-d
 
 训练数据来自 https://huggingface.co/datasets/hammer888/captcha-data
 
-训练可以达到90%的准确率，可以在一些自动化脚本中使用。
+验证集可以达到90%的准确率，可以在一些自动化脚本中使用。
 
 以下是训练过程和结果
 ![finalTable](https://github.com/zhangzhe197/CaptchaCNN/assets/118900381/fd5d0748-2611-4eca-b35b-d585ac639c4a)
